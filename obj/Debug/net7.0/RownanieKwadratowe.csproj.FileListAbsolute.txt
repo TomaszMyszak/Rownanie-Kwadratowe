@@ -1,0 +1,15 @@
+C:\Users\tmysz\Downloads\RownanieKwadratowe\bin\Debug\net7.0\RownanieKwadratowe.exe
+C:\Users\tmysz\Downloads\RownanieKwadratowe\bin\Debug\net7.0\RownanieKwadratowe.deps.json
+C:\Users\tmysz\Downloads\RownanieKwadratowe\bin\Debug\net7.0\RownanieKwadratowe.runtimeconfig.json
+C:\Users\tmysz\Downloads\RownanieKwadratowe\bin\Debug\net7.0\RownanieKwadratowe.dll
+C:\Users\tmysz\Downloads\RownanieKwadratowe\bin\Debug\net7.0\RownanieKwadratowe.pdb
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.csproj.AssemblyReference.cache
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.AssemblyInfoInputs.cache
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.AssemblyInfo.cs
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.dll
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\refint\RownanieKwadratowe.dll
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.pdb
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\RownanieKwadratowe.genruntimeconfig.cache
+C:\Users\tmysz\Downloads\RownanieKwadratowe\obj\Debug\net7.0\ref\RownanieKwadratowe.dll
